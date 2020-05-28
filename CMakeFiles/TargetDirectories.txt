@@ -1,0 +1,3 @@
+/home/xi/CLionProjects/yolov4/CMakeFiles/rebuild_cache.dir
+/home/xi/CLionProjects/yolov4/CMakeFiles/edit_cache.dir
+/home/xi/CLionProjects/yolov4/CMakeFiles/yolov4.dir

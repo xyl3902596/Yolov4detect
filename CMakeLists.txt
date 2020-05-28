@@ -1,0 +1,7 @@
+cmake_minimum_required(VERSION 3.5)
+project(yolov4)
+find_package( OpenCV 3 REQUIRED )
+set(CMAKE_CXX_STANDARD 14)
+include_directories(${OpenCV_INCLUDE_DIRS})
+add_executable(yolov4 main.cpp yolo_v2_class.hpp)
+target_link_libraries(yolov4 ${OpenCV_LIBS} libdarknet.so libpthread.so.0)
