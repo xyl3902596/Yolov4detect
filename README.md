@@ -16,7 +16,7 @@ make
 ./yolov4 test.mp4             //video
 ./yolov4 web_camera      //webcamera
 ```
-## result
+## Result
 ![avatar](detect_result/kite_yolov4_out.jpg "kite") 
 ![avatar](detect_result/person_yolov4_out.jpg "person") 
 ![avatar](detect_result/supermarket_yolov4_out.jpg "supermarket") 
