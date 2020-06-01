@@ -1,6 +1,9 @@
 ### Introduction
 &emsp;&emsp;In this project, we use the lastest detection model Yolov4 to detect the custom images, videos or web camera videos with C++.  
-&emsp;&emsp;Reference blog:https://www.jianshu.com/p/24174ca9685a
+&emsp;&emsp;Reference blog:
+        https://www.jianshu.com/p/24174ca9685a
+        https://blog.csdn.net/qianfengling0707/article/details/106467731/
+
 ### Step
 ```
 git clone https://github.com/xyl3902596/Yolov4detect.git
